@@ -1,4 +1,116 @@
+.head {
+	background-color: steelblue;
+	background: rgd(255,255,0);
+	height: 400px;
+	max-width: 1900px;
+	max-height: 1900px;
+	padding: 50px 20px 50px 20px;
+	text-align: center;
+	background-image: url(../site/art.jpg);
+	background-size: 40%;
+	background-repeat: no repeat;
+	border-radius: 20px;
+	color: white;
+	text-shadow: #000;
+}
 
 body {
-    margin: 0;
+	background-color: rgb(106, 110, 145);
+}
+
+/*-- BUTTONS --*/
+
+
+
+.top-button-Index {
+	width: 200px;
+	height: 60px;
+	margin: 12px;
+	background-color: steelblue;
+	border: solid 2px slateblue;
+	color: darkblue;
+	border-radius: 25px
+
+	
+}
+
+
+/*--.top-button-Resume {
+	
+	background-color: steelblue;
+	border: solid 3px slateblue;
+	color: darkblue;
+	border-radius: 10px
+}--*/
+
+.top-button-About {
+	width: 200px;
+	height: 60px;
+	margin: 12px;
+	background-color: steelblue;
+	border: solid 2px slateblue;
+	color: darkblue;
+	border-radius: 25px
+	
+	
+}
+
+.top-button-Portfolio {
+	width: 200px;
+	height: 60px;
+	margin: 12px;
+	background-color: steelblue;
+	border: solid 2px slateblue;
+	color: darkblue;
+	border-radius: 25px
+
+}
+
+.top-button-Contact {
+	width: 200px;
+	height: 60px;
+	margin: 12px;
+	background-color: steelblue;
+	border: solid 2px slateblue;
+	color: darkblue;
+	border-radius: 25px
+	
+}
+
+.link-button {
+	box-shadow: 0px 15px 20px rgba(54, 58, 56, 0.4);
+	cursor: pointer;
+	letter-spacing: 1.5px;
+	color: #fff;    
+}
+
+
+
+/*-- Div Tags ---*/
+
+
+.Index {
+
+}
+
+.About {
+
+}
+
+.Portfolio {
+	
+}
+
+.Contact {
+	
+}
+
+
+
+/*-- Pseudo class --*/
+
+
+.link-button:hover {
+	background-color: rgba(0, 77, 243, 0.6);
+	transform: translateY(-7px);
 }
