@@ -22,7 +22,7 @@ body {
 
 
 
-.top-button-Index {
+.top-button-index {
 	width: 200px;
 	height: 60px;
 	margin: 12px;
@@ -43,7 +43,7 @@ body {
 	border-radius: 10px
 }--*/
 
-.top-button-About {
+.top-button-about {
 	width: 200px;
 	height: 60px;
 	margin: 12px;
@@ -55,7 +55,7 @@ body {
 	
 }
 
-.top-button-Portfolio {
+.top-button-portfolio {
 	width: 200px;
 	height: 60px;
 	margin: 12px;
@@ -66,7 +66,7 @@ body {
 
 }
 
-.top-button-Contact {
+.top-button-contact {
 	width: 200px;
 	height: 60px;
 	margin: 12px;
@@ -89,19 +89,19 @@ body {
 /*-- Div Tags ---*/
 
 
-.Index {
+.index {
 
 }
 
-.About {
+.about {
 
 }
 
-.Portfolio {
+.portfolio {
 	
 }
 
-.Contact {
+.contact {
 	
 }
 
