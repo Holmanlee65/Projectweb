@@ -33,13 +33,14 @@ body {
 }	
 
 .header-button {
-	box-shadow: 0px 4px 12 black;
+	box-shadow: 0px 4px 12px rgb(8, 4, 4);
 	cursor: pointer;
 	letter-spacing: 1.0px;
 	color: rgb(8, 0, 0);
 	padding: 8px 8px;
 	bakground-color: slategray;
-	border-radius: 25px;
+	border-radius: 20px;
+	
 }
 
 /*-- Div Tags ---*/ 
