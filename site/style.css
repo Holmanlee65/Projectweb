@@ -30,9 +30,19 @@ body {
 	background-color: steelblue;
 	border: solid 2px slateblue;
 	border-radius: 25px; 
+}	
+
+.header-button {
+	box-shadow: 0px 4px 12 black;
+	cursor: pointer;
+	letter-spacing: 1.0px;
+	color: rgb(8, 0, 0);
+	padding: 8px 8px;
+	bakground-color: slategray;
+	border-radius: 25px;
 }
 
-/*-- Div Tags ---*/
+/*-- Div Tags ---*/ 
 .button-container {
 
 }
