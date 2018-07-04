@@ -40,11 +40,10 @@ body {
 	padding: 8px 8px;
 	bakground-color: slategray;
 	border-radius: 20px;
-	
 }
 
 /*-- Div Tags ---*/ 
-.button-container {
+.button-container { 
 
 }
 
@@ -52,4 +51,11 @@ body {
 .link-button:hover {
 	background-color: rgba(0, 77, 243, 0.6);
 	transform: translateY(-7px);
+}
+
+/*-- Social media link buttons --*/
+
+.fa-instagram {
+	background: #007bb5;
+	color: white; 
 }
