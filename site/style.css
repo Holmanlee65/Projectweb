@@ -47,6 +47,10 @@ body {
 
 }
 
+.div-head {
+	
+}
+
 /*-- Pseudo class --*/
 .link-button:hover {
 	background-color: rgba(0, 77, 243, 0.6);
